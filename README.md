@@ -2,6 +2,8 @@
 
 This repository allows to run the code to reproduce the 
 experiments of the paper *Fair Text Classification with Wasserstein Independence*.
+The original code comes from the Fairlib library (https://github.com/HanXudong/fairlib), 
+a framework in which we have integrated our approach.
 
 ## Data
 To download the dataset used in our experiments, please use the following commands:
